@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_rules"
+        android:icon="@drawable/ic_rule"
+        android:title="Rules"/>
+
+    <item
+        android:id="@+id/ic_players"
+        android:icon="@drawable/ic_person"
+        android:title="Players"/>
+
+    <item
+        android:id="@+id/ic_gallery"
+        android:icon="@drawable/ic_gallery"
+        android:title="Gallery"/>
+
+</menu>
